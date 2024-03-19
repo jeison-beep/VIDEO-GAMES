@@ -1,2 +1,2 @@
-#Developer: Joan C.
-print("Hello, I'am Joan")
+#developer jack
+print("hello , i' am Jack")
